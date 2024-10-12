@@ -1,1 +1,1 @@
-# ConsoleGenerativeAI
+# Microsoft Extensions AI + Groq
